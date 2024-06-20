@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  spring-boot-rest:
+    build: ./
+    ports:
+      - "8888:8080"
