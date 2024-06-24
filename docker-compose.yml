@@ -4,4 +4,4 @@ services:
   spring-boot-rest:
     build: ./
     ports:
-      - "8888:8080"
+      - "8080:8080"
